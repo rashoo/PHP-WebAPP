@@ -9,6 +9,7 @@
 
     Sucessfully logged in!
 
+<p>Go back to home <a href=sign_in.php> Homepage </p></a>
 </p>
 
 
